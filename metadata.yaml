@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '25705'
     url: http://www.gutenberg.org/2009/agents/25705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29495#Sancti-Hilarii--Pictaviensis-Episcopi-Opera-OmniaPatrologiae-Cursus-Completus--Tomas-X
 gutenberg_issued: '2009-07-23'
 gutenberg_type: Text
 identifiers:
